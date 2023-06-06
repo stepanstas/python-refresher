@@ -1,1 +1,1 @@
-# python-refresher
+# Python refresher for a Django tutorial
